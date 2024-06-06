@@ -20,6 +20,7 @@ The following deep learning models were tested:
 - `text_classification_with_AraBert.ipynb`:  AraBERT model implementation.
 - `preprocessing.ipynb`: Exploratory data analysis (EDA) and preprocessing steps.
 - `processing-files.ipynb`: Create .csv dataset from the downloaded dataset.
+- `Data_augmentation.ipynb`: Data augmentation techniques performed.
 
 ## Files
 - `dataset.csv`: The saved dataset after processing.
