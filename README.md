@@ -16,12 +16,12 @@ The following deep learning models were tested:
 - **AraBERT Model**: A transformer-based model specifically designed for Arabic text.
 
 ## Notebooks
+- `processing-files.ipynb`: Create .csv dataset from the downloaded dataset.
+- `preprocessing.ipynb`: Exploratory data analysis (EDA) and preprocessing steps.
+- `Data_augmentation.ipynb`: Data augmentation techniques performed.
 - `arabic_text_classification_LSTM_CNN.ipynb`: CNN and LSTM models implementation.
 - `text_classification_with_AraBert.ipynb`:  AraBERT model implementation.
-- `preprocessing.ipynb`: Exploratory data analysis (EDA) and preprocessing steps.
-- `processing-files.ipynb`: Create .csv dataset from the downloaded dataset.
-- `Data_augmentation.ipynb`: Data augmentation techniques performed.
 
 ## Files
-- `dataset.csv`: The saved dataset after processing.
+- `dataset.csv`: The .csv dataset created from original .txt files.
 - `train_data.csv`: Dataset after performing Data Augmentation.
