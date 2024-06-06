@@ -6,7 +6,7 @@ This project investigates how the Attention mechanism improves Arabic text class
 ## Dataset
 Datasets used in the project are found here:
 https://sourceforge.net/projects/ar-text-mining/files/Arabic-Corpora/
-CNN Arabic news dataset: cnn-arabic-utf8 (primary dataset).
+CNN Arabic news dataset: cnn-arabic-utf8 (primary dataset). <br/>
 BBC Arabic news dataset: bbc-arabic-utf8.
 
 ## Models
