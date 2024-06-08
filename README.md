@@ -21,6 +21,7 @@ The following deep learning models were tested:
 - `Data_augmentation.ipynb`: Data augmentation techniques performed.
 - `arabic_text_classification_LSTM_CNN.ipynb`: CNN and LSTM models implementation.
 - `text_classification_with_AraBert.ipynb`:  AraBERT model implementation.
+- `arabic-sentiment-analysis-lstm-cnn (1).ipynb`: Arabic tweets sentiment analysis using LSTM and CNN.
 
 ## Files
 - `dataset.csv`: The .csv dataset created from original .txt files.
