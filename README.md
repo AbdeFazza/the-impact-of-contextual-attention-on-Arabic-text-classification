@@ -26,4 +26,6 @@ The following deep learning models were tested:
 
 ## Files
 - `dataset.csv`: The .csv dataset created from original .txt files.
+- `bbc-arabic-utf8_folder_form.rar`: Primary dataset: BBC Arabic news in a folder structure. Each folder corresponds to a specific category and contains .txt files related to that category.
+- `cnn-arabic-utf8_csv_form.zip`: CNN dataset in .csv format.
 - `train_data.csv`: Dataset after performing Data Augmentation.
